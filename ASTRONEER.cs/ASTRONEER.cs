@@ -43,8 +43,8 @@ namespace WindowsGSM.Plugins
 
 
         // - Game server default values
-        public string Port = "7777"; // Default port
-        public string QueryPort = "7777"; // Default query port
+        public string Port = "8777"; // Default port
+        public string QueryPort = "8777"; // Default query port
         public string Defaultmap = "planet"; // Default map name
         public string Maxplayers = "4"; // Default maxplayers
         public string Additional = ""; // Additional server start parameter
